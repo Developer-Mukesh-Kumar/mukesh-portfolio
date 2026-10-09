@@ -89,7 +89,7 @@ button:focus-visible {
 
 .nav-links a:hover,
 .social-links a:hover {
-  color: var(--accent);
+  /* color: var(--accent); */
 }
 
 .nav-links .nav-cta {
